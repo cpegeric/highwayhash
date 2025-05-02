@@ -1,5 +1,5 @@
-module github.com/minio/highwayhash
+module github.com/cpegeric/highwayhash
 
-go 1.15
+go 1.23.0
 
-require golang.org/x/sys v0.21.0
+require golang.org/x/sys v0.32.0
